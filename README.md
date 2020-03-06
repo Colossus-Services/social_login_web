@@ -5,7 +5,7 @@ Social Login - Web login for many social networks, like Facebook.
 A simple usage example:
 
 ```dart
-import 'package:social_login/facebook_login.dart';
+import 'package:social_login_web/facebook_login.dart';
 
 main() {
   
