@@ -1,4 +1,4 @@
-import 'package:social_login/facebook_login.dart';
+import 'package:social_login_web/facebook_login.dart';
 import 'package:test/test.dart';
 
 void main() {

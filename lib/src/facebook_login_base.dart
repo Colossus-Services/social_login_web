@@ -4,8 +4,9 @@ import 'dart:html';
 import 'dart:js';
 import 'dart:typed_data';
 
-import 'package:social_login/src/user_login_base.dart';
 import 'package:swiss_knife/swiss_knife_browser.dart';
+
+import 'user_login_base.dart';
 
 typedef void FacebookStatusListener(FacebookStatus status);
 
