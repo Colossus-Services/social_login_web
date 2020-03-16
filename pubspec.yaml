@@ -1,13 +1,13 @@
 name: social_login_web
 description: Handles Web login in many social networks
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/Colossus-Services/social_login_web
 
 environment:
   sdk: '>=2.7.0 <3.0.0'
 
 dependencies:
-  swiss_knife: ^2.3.1
+  swiss_knife: ^2.3.7
     #path: ../swiss_knife
 
 dev_dependencies:
