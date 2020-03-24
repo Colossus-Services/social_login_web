@@ -207,7 +207,7 @@ class UserLogin {
   }
 
   String _email ;
-  String get email => _email ?? _isEmail(_username) ? _username : null ;
+  String get email => _email ?? (_isEmail(_username) ? _username : null) ;
 
   static bool _isEmail(String s) {
     if (s == null || s.length < 3) return false ;

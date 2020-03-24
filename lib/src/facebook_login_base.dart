@@ -4,7 +4,7 @@ import 'dart:html';
 import 'dart:js';
 import 'dart:typed_data';
 
-import 'package:swiss_knife/swiss_knife_browser.dart';
+import 'package:swiss_knife/swiss_knife.dart';
 
 import 'user_login_base.dart';
 
