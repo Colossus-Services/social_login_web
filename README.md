@@ -1,5 +1,7 @@
 Social Login - Web login for many social networks, like Facebook.
 
+*NOTE:* This package is not finalized yet!
+
 ## Usage
 
 A simple usage example:
